@@ -115,8 +115,9 @@
    <text xml:lang="eng">
       <body>
          <div type="proclamation">
-            <pb facs="tcp:039364_0000_1014000245EE18D0"/>
-            <pb facs="tcp:039364_0001_10140008318B4DC8" rendition="simple:additions"/>
+            <pb facs="unknown:039364_0000_1014000245EE18D0"/>
+            <pb facs="unknown:039364_0001_10140008318B4DC8"
+                rendition="simple:additions"/>
             <head>Province of the Maſſachuſetts-Bay in New-England. <figure>
                   <figDesc>seal</figDesc>
                </figure> By His EXCELLENCY, Richard, Earl of Bellomont, Captain General and GOVERNOUR in Chief of the ſaid Province, <hi>&amp;c.</hi> A Proclamation for a general FAST.</head>
